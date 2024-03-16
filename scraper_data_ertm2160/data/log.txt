@@ -1,0 +1,2 @@
+../data/eta/N00E005.eta	https://ddfe.curtin.edu.au/gravitymodels/ERTM2160/data/eta/N00E005.eta
+../data/eta/N00E005.eta.png	https://ddfe.curtin.edu.au/gravitymodels/ERTM2160/data/eta/N00E005.eta.png
