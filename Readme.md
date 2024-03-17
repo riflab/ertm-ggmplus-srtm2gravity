@@ -1,7 +1,7 @@
 # index-tiles
+- ERTM2160
 - GGMPLUS
 - SRTM2GRAVITY
-- ERTM2160
 
 # scraper-ERTM2160
 
