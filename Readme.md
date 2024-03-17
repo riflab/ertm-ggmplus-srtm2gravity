@@ -1,4 +1,6 @@
-# index-tiles
+# Index tiles
+
+Tiles provided in KMZ format
 - ERTM2160
 - GGMPLUS
 - SRTM2GRAVITY
@@ -18,7 +20,7 @@ geographic latitude, and an adjoining ~10 km marine zone along the coast lines. 
 
 [^3]: SRTM2gravity is a global gravity map with 3" spatial resolution. The detail [see here](https://ddfe.curtin.edu.au/models/SRTM2gravity2018/SRTM2gravity_Readme.dat)
 
-Regards
+# contact us
 
 arif.darmawan@riflab.com
 
