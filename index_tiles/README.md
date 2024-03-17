@@ -1,2 +1,4 @@
-# index-ggmplus-srtm2gravity
-index tiles ggmplus &amp; srtm2gravity
+# index-tiles
+- GGMPLUS
+- SRTM2GRAVITY
+- ERTM2160
