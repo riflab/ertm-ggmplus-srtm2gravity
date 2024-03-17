@@ -3,7 +3,7 @@
 - GGMPLUS
 - SRTM2GRAVITY
 
-# scraper-ERTM2160
+# scraper data
 
 - Scrap all ERTM2160[^1] data.
 
